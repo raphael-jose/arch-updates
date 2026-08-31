@@ -1,8 +1,8 @@
 {
-  "version": "0.1.0-alpha",
-  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.1.0-alpha/app-release.apk",
-  "mandatory": false,
-  "changelog": "Versao inicial do Arch.",
+  "version": "0.3.0",
+  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.3.0/arch.apk",
+  "mandatory": true,
+  "changelog": "Interface holografica completa. Orb animado com 6 estados. Boot sequence. Voice recognition. Chat e action panels.",
   "sha256": "",
-  "sizeBytes": 1535026
+  "sizeBytes": 1681733
 }
