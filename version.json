@@ -1,8 +1,8 @@
 {
   "version": "0.1.0-alpha",
-  "download": "",
+  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.1.0-alpha/app-release.apk",
   "mandatory": false,
   "changelog": "Versao inicial do Arch.",
   "sha256": "",
-  "sizeBytes": 0
+  "sizeBytes": 1535026
 }
