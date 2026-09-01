@@ -1,9 +1,8 @@
 {
-  "version": "0.4.0",
-  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.4.0/arch.apk",
+  "version": "0.5.0",
+  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.5.0/arch.apk",
   "mandatory": true,
-  "changelog": "Sons holograficos. Interface polida com grid e scan line. HUD com coordenadas e status. Auto-update no startup. Banner de atualizacao. Ollama Cloud funcionando.",
+  "changelog": "Interface limpa (sem grid/scan). Orb circular. TTS com voz masculina PT-BR. Memoria persistente. Menu de configuracoes. Auto-update no startup. Bridgets Android (WhatsApp, Telegram, Instagram, calendario, galeria, musica, email).",
   "sha256": "",
-  "sizeBytes": 2027985
+  "sizeBytes": 2028825
 }
-
