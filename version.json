@@ -2,7 +2,7 @@
   "version": "0.6.1",
   "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.6.1/arch.apk",
   "mandatory": true,
-  "changelog": "Sistema de comandos: IA abre apps, agenda eventos, define alarmes. Voz Razzo via HuggingFace.",
+  "changelog": "Fix: atualizacao agora instala APK sem erro de FileProvider. TTS Android reativado. Comandos de voz para abrir apps.",
   "sha256": "",
-  "sizeBytes": 2029000
+  "sizeBytes": 2028825
 }
