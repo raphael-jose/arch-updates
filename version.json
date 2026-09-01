@@ -1,8 +1,8 @@
 {
-  "version": "0.5.0",
-  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.5.0/arch.apk",
+  "version": "0.6.0",
+  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.6.0/arch.apk",
   "mandatory": true,
-  "changelog": "Interface limpa (sem grid/scan). Orb circular. TTS com voz masculina PT-BR. Memoria persistente. Menu de configuracoes. Auto-update no startup. Bridgets Android (WhatsApp, Telegram, Instagram, calendario, galeria, musica, email).",
+  "changelog": "TTS via Android nativo. Strip markdown e emoji. Mensagens 15s. Personalidade Jarvis. Automacao calendario/alarmes. Apps WhatsApp/Telegram/Instagram.",
   "sha256": "",
-  "sizeBytes": 2028825
+  "sizeBytes": 2028661
 }
