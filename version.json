@@ -1,8 +1,9 @@
 {
-  "version": "0.3.0",
-  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.3.0/arch.apk",
+  "version": "0.4.0",
+  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.4.0/arch.apk",
   "mandatory": true,
-  "changelog": "Interface holografica completa. Orb animado com 6 estados. Boot sequence. Voice recognition. Chat e action panels.",
+  "changelog": "Sons holograficos. Interface polida com grid e scan line. HUD com coordenadas e status. Auto-update no startup. Banner de atualizacao. Ollama Cloud funcionando.",
   "sha256": "",
-  "sizeBytes": 1681733
+  "sizeBytes": 2027985
 }
+
