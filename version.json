@@ -1,8 +1,8 @@
 {
-  "version": "0.6.1",
-  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.6.1/arch.apk",
+  "version": "0.7.0",
+  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.7.0/arch.apk",
   "mandatory": true,
-  "changelog": "Fix: atualizacao agora instala APK sem erro de FileProvider. TTS Android reativado. Comandos de voz para abrir apps.",
+  "changelog": "Auto-built release v0.7.0",
   "sha256": "",
-  "sizeBytes": 2028825
+  "sizeBytes": 2046409
 }
