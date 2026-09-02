@@ -1,1 +1,8 @@
-{"version":"0.9.1","download":"https://github.com/raphael-jose/arch-updates/releases/download/v0.9.1/app-release.apk","mandatory":true,"changelog":"Fix chat scroll, Android TTS fallback, persist chat","sha256":"","sizeBytes":130992174}
+{
+  "version": "0.9.1",
+  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.9.1/arch.apk",
+  "mandatory": true,
+  "changelog": "Auto-built release v0.9.1",
+  "sha256": "",
+  "sizeBytes": 130992478
+}
