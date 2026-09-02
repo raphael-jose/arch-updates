@@ -1,8 +1,1 @@
-{
-  "version": "0.9.7",
-  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.9.7/arch.apk",
-  "mandatory": true,
-  "changelog": "Auto-built release v0.9.7",
-  "sha256": "",
-  "sizeBytes": 130992998
-}
+{"version":"0.9.8","download":"https://github.com/raphael-jose/arch-updates/releases/download/v0.9.8/app-release.apk","mandatory":true,"changelog":"OpenRouter Llama 3.3 70B, fix TTS fallback chain","sha256":"","sizeBytes":130993042}
