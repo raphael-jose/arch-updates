@@ -1,1 +1,8 @@
-{"version":"0.9.7","download":"https://github.com/raphael-jose/arch-updates/releases/download/v0.9.7/app-release.apk","mandatory":true,"changelog":"Fix: app opening by name, trim package names, search installed apps","sha256":"","sizeBytes":130993042}
+{
+  "version": "0.9.7",
+  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.9.7/arch.apk",
+  "mandatory": true,
+  "changelog": "Auto-built release v0.9.7",
+  "sha256": "",
+  "sizeBytes": 130992998
+}
