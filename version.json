@@ -1,1 +1,8 @@
-{"version":"0.9.6","download":"https://github.com/raphael-jose/arch-updates/releases/download/v0.9.6/app-release.apk","mandatory":true,"changelog":"Remove ugly lines from orb - clean dots only","sha256":"","sizeBytes":130993066}
+{
+  "version": "0.9.6",
+  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.9.6/arch.apk",
+  "mandatory": true,
+  "changelog": "Auto-built release v0.9.6",
+  "sha256": "",
+  "sizeBytes": 130992658
+}
