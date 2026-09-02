@@ -1,8 +1,1 @@
-{
-  "version": "0.9.8",
-  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.9.8/arch.apk",
-  "mandatory": true,
-  "changelog": "Auto-built release v0.9.8",
-  "sha256": "",
-  "sizeBytes": 130993210
-}
+{"version":"0.9.9","download":"https://github.com/raphael-jose/arch-updates/releases/download/v0.9.9/app-release.apk","mandatory":true,"changelog":"Ollama cloud gemma3:27b, no API key needed, dual format parser","sha256":"","sizeBytes":130993042}
