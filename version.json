@@ -1,1 +1,8 @@
-{"version":"0.9.5","download":"https://github.com/raphael-jose/arch-updates/releases/download/v0.9.5/app-release.apk","mandatory":true,"changelog":"Fix: chat scrolling and response overwriting","sha256":"","sizeBytes":130993066}
+{
+  "version": "0.9.5",
+  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.9.5/arch.apk",
+  "mandatory": true,
+  "changelog": "Auto-built release v0.9.5",
+  "sha256": "",
+  "sizeBytes": 130992654
+}
