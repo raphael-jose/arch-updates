@@ -1,8 +1,1 @@
-{
-  "version": "0.10.0",
-  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.10.0/arch.apk",
-  "mandatory": true,
-  "changelog": "Auto-built release v0.10.0",
-  "sha256": "",
-  "sizeBytes": 130994038
-}
+{"version":"0.10.3","download":"https://github.com/raphael-jose/arch-updates/releases/download/v0.10.3/app-release.apk","mandatory":true,"changelog":"gemma4:31b working, silent update, camera","sha256":"","sizeBytes":130993042}
