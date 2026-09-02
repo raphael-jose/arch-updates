@@ -1,8 +1,1 @@
-{
-  "version": "0.8.2",
-  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.8.2/arch.apk",
-  "mandatory": true,
-  "changelog": "Auto-built release v0.8.2",
-  "sha256": "",
-  "sizeBytes": 130992294
-}
+{"version":"0.9.0","download":"https://github.com/raphael-jose/arch-updates/releases/download/v0.9.0/app-release.apk","mandatory":true,"changelog":"Remove light rays, fix oval orb, fix text persistence","sha256":"","sizeBytes":130992174}
