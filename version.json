@@ -1,8 +1,8 @@
 {
-  "version": "0.11.0",
-  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.11.0/arch.apk",
+  "version": "0.11.1",
+  "download": "https://github.com/raphael-jose/arch-updates/releases/download/v0.11.1/arch.apk",
   "mandatory": true,
-  "changelog": "Auto-built release v0.11.0",
+  "changelog": "Auto-built release v0.11.1",
   "sha256": "",
-  "sizeBytes": 131011290
+  "sizeBytes": 131011310
 }
